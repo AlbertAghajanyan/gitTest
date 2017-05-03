@@ -1,2 +1,6 @@
 aaa.txt
+<<<<<<< HEAD
 aaaaaaaaa
+=======
+bbbbbbbb
+>>>>>>> e422c061f4d9e15f5f6a700381d3c1111ab12b50
