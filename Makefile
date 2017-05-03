@@ -1,8 +1,3 @@
-main.o: main.cpp helloWorld.hpp
-	g++ -std=c++11 -c main.cpp
-
-helloWorld.o: helloWorld.cpp helloWorld.hpp
-	g++ -std=c++11 -c helloWorld.cpp
-
+Hello everyone !!! I am a git conflict ;)
 clean:
 	rm -rf *.o hello
