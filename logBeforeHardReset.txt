@@ -1,0 +1,246 @@
+commit 31765abd48a6c24b2c334774f4fdc23656a436af
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 21:53:29 2017 +0400
+
+    Add t.txt tt.txt ttt.txt file
+
+commit 7c32dd6eb68cdc46e708eb84ab1f515bcb66222c
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 21:52:17 2017 +0400
+
+    Add firstLog.txt, log file before hard reset
+
+commit 5be86b690cbfb2e654144c27fa9f7227c924da8f
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 21:44:10 2017 +0400
+
+    Add d.txt file
+
+commit cd7132141be3f68a46ee30fd40381bf2f090532c
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 21:42:29 2017 +0400
+
+    Add logFile.txt
+
+commit 894dd785ffaccea11018319613d65f31aa7a815c
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 21:40:36 2017 +0400
+
+    Add log.txt file
+
+commit 58575d22f8923710057b14675d6298d068074509
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 20:36:24 2017 +0400
+
+    Add c.txt
+
+commit 20d6e7b2877d8eca80f2603d145b02fb64c41909
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 20:35:38 2017 +0400
+
+    Add b.txt
+
+commit e9b2a70b4afaba5d2ca3e412434f959a100c53ff
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 20:32:27 2017 +0400
+
+    Add changed versions
+
+commit 1f4806434f1ac3527c3ba3ec2a4ed0ecdfe65d00
+Merge: 9bbbea2 4009f29
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 20:29:47 2017 +0400
+
+    aaa
+    Merge branch 'master' of https://github.com/AlbertAghajanyan/gitTest
+
+commit 9bbbea2b77595580dd84867f69b0575cfd9f8aa6
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 20:29:00 2017 +0400
+
+    Add change version
+
+commit f9258ba8b8beba03db55e522d2897af323675e7b
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 02:04:00 2017 +0400
+
+    Return soft reset
+
+commit 4009f291fdefbf45ff8e58d2263f21affbcda18c
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 00:30:04 2017 +0400
+
+    Add dddd.txt
+
+commit 5830a437fc20b17c88d14c94fd4896c57df8de46
+Merge: f724928 8aa7c79
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 23:53:01 2017 +0400
+
+    Added all
+
+commit f72492813d7aa4c2b5dd694f45f59afc8dfb37f8
+Merge: cd03144 e422c06
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 23:44:50 2017 +0400
+
+    Correct conflict
+
+commit e422c061f4d9e15f5f6a700381d3c1111ab12b50
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 23:14:45 2017 +0400
+
+    Change aaa.txt file(bbbbbbb) for apply
+
+commit cd031449abc0b81d8a7c4a7d54004c36a9972c91
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 23:14:00 2017 +0400
+
+    Change aaa.txt file for apply
+
+commit 8aa7c79a70d6342d42b2d4d729df19e552f928fe
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 22:31:01 2017 +0400
+
+    Deleted aaa.txt file
+
+commit cc6601d0913fc44eb47206ba1bd5315634280527
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 22:29:36 2017 +0400
+
+    Add chenged versions
+
+commit 8d57fe8f5b227d62a4008b52c09afd02453e639a
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 22:27:07 2017 +0400
+
+    Rename newA.txt -> A.txt
+
+commit e198dc74716160ce6919a1e273b7eff833133e12
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 22:17:16 2017 +0400
+
+    Change newA.txt file
+
+commit 32cf30f6c165b65e29942db464dd47500cef81b2
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 22:15:48 2017 +0400
+
+    Add new version
+
+commit 74dd16e37f6ed8a873a5bb74092d8b4d199b1fb9
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 22:00:55 2017 +0400
+
+    Use apple
+
+commit bacea09378a19d42f552927e7109260c8374993c
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 21:57:58 2017 +0400
+
+    Add aaa.txt in master branch
+
+commit cb55d8271800cf2aa0b2526a6c2e061093914ec1
+Merge: 78fa210 4656cd8
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 19:55:52 2017 +0400
+
+    Add changes version
+
+commit 78fa21070cda531027b128ffc34649e2d20ed858
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 19:40:06 2017 +0400
+
+    Add change version
+
+commit 4656cd8c4a3ec9ffffca41060e3ecb81276cabbc
+Merge: c7388ac 89cb914
+Author: AlbertAghajanyan <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 17:42:03 2017 +0400
+
+    Merge branch 'master' of https://github.com/AlbertAghajanyan/gitTest
+
+commit c7388ac2b6c5d9feccbd915bc4f4714bd781e812
+Author: AlbertAghajanyan <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 17:41:04 2017 +0400
+
+    AAAAAA
+
+commit 89cb91446e9caa46a1f2ff7c7000aa939529195f
+Merge: f96f94a 4e87e0a
+Author: Albert-Aghajanyan <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 17:06:06 2017 +0400
+
+    Merge branch 'master' of https://github.com/AlbertAghajanyan/gitTest
+
+commit f96f94a50a0abb0d58eddeb1b2d0c0f10d92d423
+Author: Mane Hambardzumyan <mane_h@instigatemobile.com>
+Date:   Wed May 3 16:54:22 2017 +0400
+
+    Added stuff to make conflict.
+
+commit 4e87e0ae04347a56389c3b975ea7e56c029d6d34
+Author: AlbertAghajanyan <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 16:51:45 2017 +0400
+
+    kanfet
+
+commit ca80e19c10552cebd92d45dc976e0f5ab0be89e0
+Author: AlbertAghajanyan <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 16:49:14 2017 +0400
+
+    Add programm
+
+commit c1294bf90108f6ab94f3008717be9e39d356515b
+Author: AlbertAghajanyan <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 16:42:18 2017 +0400
+
+    hhkk
+
+commit 4c1890451ae10279658b457c9d9f0dd9bd52f1c5
+Author: AlbertAghajanyan <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 05:27:35 2017 +0400
+
+    Add deleted bb.txt file
+
+commit abe04bf8bb841c549fba2690f5fad6a93efc35b4
+Author: AlbertAghajanyan <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 03:04:08 2017 +0400
+
+    Add bb.txt
+
+commit d8778da011bc80a871c8a3ad10af7069620c35a6
+Author: AlbertAghajanyan <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 02:28:48 2017 +0400
+
+    Delete b.txt file
+
+commit 90724cd9dbd698f6a7e5554a5d9804398e9204c3
+Author: AlbertAghajanyan <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 02:26:43 2017 +0400
+
+    Rename a.txt -> newA.txt
+
+commit 12e1e54f4564ef9f1165c4081dccba5b2e620042
+Author: AlbertAghajanyan <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 02:23:22 2017 +0400
+
+    Add b.txt file
+
+commit 8e9c5152c93c039b191050a577d658643731ce96
+Author: AlbertAghajanyan <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 02:21:46 2017 +0400
+
+    Add a.txt file
+
+commit 7b2e36a43f86ccda22bc5101a0a997010374996b
+Author: AlbertAghajanyan <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 02:19:54 2017 +0400
+
+    Change \n\n -> \n in helloWorld.cpp
+
+commit 8d712cab4b10a6515251b4a768f4ae56070dc7ef
+Author: AlbertAghajanyan <albert93aghajanyan@mail.ru>
+Date:   Wed May 3 02:17:11 2017 +0400
+
+    Add helloWorld programm
