@@ -1,3 +1,71 @@
+commit f5e42ef26c81c8b28f57bd16cb0fc89ed0d86d31
+Merge: 4c58617 9485dcc
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 22:53:27 2017 +0400
+
+    Merge branch 'master' of https://github.com/AlbertAghajanyan/gitTest
+
+commit 4c58617159865b8b8e44930037715e2e75129bc3
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 22:48:31 2017 +0400
+
+    Use soft reset change zzz.txt file and commit new zzz.txt file
+
+commit 9485dcc9efc657fb40599ad4175fdfea6983dd17
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 22:46:03 2017 +0400
+
+    Add zzz.txt file
+
+commit 68d361607ea2fda1cda7fec76d0f4a88c65b05ce
+Merge: f102c18 3679d82
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 22:44:38 2017 +0400
+
+    Merge branch 'master' of https://github.com/AlbertAghajanyan/gitTest
+
+commit f102c1817717cf1176f4fb25f6164163d2784ff8
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 22:44:08 2017 +0400
+
+    Add changes after soft reset
+
+commit 3679d82add3562eed176b9cc371fae56e714e02e
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 22:37:00 2017 +0400
+
+    Add z.txt zz.txt
+
+commit ff7e61aab156ba9c05fd76195c06a66a7d06ff49
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 22:28:53 2017 +0400
+
+    Different befor(logBeforeHardReset.txt) and after(logAfterHardReset.txt) hard reset
+
+commit f2690a00670c27efcf48ebd9cfd52ca8f08102b3
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 22:26:24 2017 +0400
+
+    Add logBeforeHardReset.txt file
+
+commit 2b771fe289dd1a4b6aa4a2d85d285a94ccffc5da
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 22:24:54 2017 +0400
+
+    Add logAfterHardReset.txt
+
+commit cd7132141be3f68a46ee30fd40381bf2f090532c
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 21:42:29 2017 +0400
+
+    Add logFile.txt
+
+commit 894dd785ffaccea11018319613d65f31aa7a815c
+Author: Albert <albert93aghajanyan@mail.ru>
+Date:   Thu May 4 21:40:36 2017 +0400
+
+    Add log.txt file
+
 commit 58575d22f8923710057b14675d6298d068074509
 Author: Albert <albert93aghajanyan@mail.ru>
 Date:   Thu May 4 20:36:24 2017 +0400
